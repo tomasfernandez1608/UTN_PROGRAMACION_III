@@ -1,0 +1,15 @@
+F:\UTN\PROGRAMACION III\EJERCICIOS\Clase6_Aterrizar\Clase6_Aterrizar\obj\Debug\net6.0\Clase6_Aterrizar.csproj.AssemblyReference.cache
+F:\UTN\PROGRAMACION III\EJERCICIOS\Clase6_Aterrizar\Clase6_Aterrizar\obj\Debug\net6.0\Clase6_Aterrizar.GeneratedMSBuildEditorConfig.editorconfig
+F:\UTN\PROGRAMACION III\EJERCICIOS\Clase6_Aterrizar\Clase6_Aterrizar\obj\Debug\net6.0\Clase6_Aterrizar.AssemblyInfoInputs.cache
+F:\UTN\PROGRAMACION III\EJERCICIOS\Clase6_Aterrizar\Clase6_Aterrizar\obj\Debug\net6.0\Clase6_Aterrizar.AssemblyInfo.cs
+F:\UTN\PROGRAMACION III\EJERCICIOS\Clase6_Aterrizar\Clase6_Aterrizar\obj\Debug\net6.0\Clase6_Aterrizar.csproj.CoreCompileInputs.cache
+F:\UTN\PROGRAMACION III\EJERCICIOS\Clase6_Aterrizar\Clase6_Aterrizar\bin\Debug\net6.0\Clase6_Aterrizar.exe
+F:\UTN\PROGRAMACION III\EJERCICIOS\Clase6_Aterrizar\Clase6_Aterrizar\bin\Debug\net6.0\Clase6_Aterrizar.deps.json
+F:\UTN\PROGRAMACION III\EJERCICIOS\Clase6_Aterrizar\Clase6_Aterrizar\bin\Debug\net6.0\Clase6_Aterrizar.runtimeconfig.json
+F:\UTN\PROGRAMACION III\EJERCICIOS\Clase6_Aterrizar\Clase6_Aterrizar\bin\Debug\net6.0\Clase6_Aterrizar.dll
+F:\UTN\PROGRAMACION III\EJERCICIOS\Clase6_Aterrizar\Clase6_Aterrizar\bin\Debug\net6.0\Clase6_Aterrizar.pdb
+F:\UTN\PROGRAMACION III\EJERCICIOS\Clase6_Aterrizar\Clase6_Aterrizar\obj\Debug\net6.0\Clase6_Aterrizar.dll
+F:\UTN\PROGRAMACION III\EJERCICIOS\Clase6_Aterrizar\Clase6_Aterrizar\obj\Debug\net6.0\refint\Clase6_Aterrizar.dll
+F:\UTN\PROGRAMACION III\EJERCICIOS\Clase6_Aterrizar\Clase6_Aterrizar\obj\Debug\net6.0\Clase6_Aterrizar.pdb
+F:\UTN\PROGRAMACION III\EJERCICIOS\Clase6_Aterrizar\Clase6_Aterrizar\obj\Debug\net6.0\Clase6_Aterrizar.genruntimeconfig.cache
+F:\UTN\PROGRAMACION III\EJERCICIOS\Clase6_Aterrizar\Clase6_Aterrizar\obj\Debug\net6.0\ref\Clase6_Aterrizar.dll

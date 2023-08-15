@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Clase4_ejercicio_Viaje/1.0.0": {
+        "runtime": {
+          "Clase4_ejercicio_Viaje.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Clase4_ejercicio_Viaje/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

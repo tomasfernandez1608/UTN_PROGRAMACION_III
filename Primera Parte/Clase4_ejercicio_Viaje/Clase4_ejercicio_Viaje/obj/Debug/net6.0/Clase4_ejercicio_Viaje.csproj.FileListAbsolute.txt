@@ -1,0 +1,15 @@
+F:\UTN\PROGRAMACION III\EJERCICIOS\Clase4_ejercicio_Viaje\Clase4_ejercicio_Viaje\bin\Debug\net6.0\Clase4_ejercicio_Viaje.exe
+F:\UTN\PROGRAMACION III\EJERCICIOS\Clase4_ejercicio_Viaje\Clase4_ejercicio_Viaje\bin\Debug\net6.0\Clase4_ejercicio_Viaje.deps.json
+F:\UTN\PROGRAMACION III\EJERCICIOS\Clase4_ejercicio_Viaje\Clase4_ejercicio_Viaje\bin\Debug\net6.0\Clase4_ejercicio_Viaje.runtimeconfig.json
+F:\UTN\PROGRAMACION III\EJERCICIOS\Clase4_ejercicio_Viaje\Clase4_ejercicio_Viaje\bin\Debug\net6.0\Clase4_ejercicio_Viaje.dll
+F:\UTN\PROGRAMACION III\EJERCICIOS\Clase4_ejercicio_Viaje\Clase4_ejercicio_Viaje\bin\Debug\net6.0\Clase4_ejercicio_Viaje.pdb
+F:\UTN\PROGRAMACION III\EJERCICIOS\Clase4_ejercicio_Viaje\Clase4_ejercicio_Viaje\obj\Debug\net6.0\Clase4_ejercicio_Viaje.csproj.AssemblyReference.cache
+F:\UTN\PROGRAMACION III\EJERCICIOS\Clase4_ejercicio_Viaje\Clase4_ejercicio_Viaje\obj\Debug\net6.0\Clase4_ejercicio_Viaje.GeneratedMSBuildEditorConfig.editorconfig
+F:\UTN\PROGRAMACION III\EJERCICIOS\Clase4_ejercicio_Viaje\Clase4_ejercicio_Viaje\obj\Debug\net6.0\Clase4_ejercicio_Viaje.AssemblyInfoInputs.cache
+F:\UTN\PROGRAMACION III\EJERCICIOS\Clase4_ejercicio_Viaje\Clase4_ejercicio_Viaje\obj\Debug\net6.0\Clase4_ejercicio_Viaje.AssemblyInfo.cs
+F:\UTN\PROGRAMACION III\EJERCICIOS\Clase4_ejercicio_Viaje\Clase4_ejercicio_Viaje\obj\Debug\net6.0\Clase4_ejercicio_Viaje.csproj.CoreCompileInputs.cache
+F:\UTN\PROGRAMACION III\EJERCICIOS\Clase4_ejercicio_Viaje\Clase4_ejercicio_Viaje\obj\Debug\net6.0\Clase4_ejercicio_Viaje.dll
+F:\UTN\PROGRAMACION III\EJERCICIOS\Clase4_ejercicio_Viaje\Clase4_ejercicio_Viaje\obj\Debug\net6.0\refint\Clase4_ejercicio_Viaje.dll
+F:\UTN\PROGRAMACION III\EJERCICIOS\Clase4_ejercicio_Viaje\Clase4_ejercicio_Viaje\obj\Debug\net6.0\Clase4_ejercicio_Viaje.pdb
+F:\UTN\PROGRAMACION III\EJERCICIOS\Clase4_ejercicio_Viaje\Clase4_ejercicio_Viaje\obj\Debug\net6.0\Clase4_ejercicio_Viaje.genruntimeconfig.cache
+F:\UTN\PROGRAMACION III\EJERCICIOS\Clase4_ejercicio_Viaje\Clase4_ejercicio_Viaje\obj\Debug\net6.0\ref\Clase4_ejercicio_Viaje.dll

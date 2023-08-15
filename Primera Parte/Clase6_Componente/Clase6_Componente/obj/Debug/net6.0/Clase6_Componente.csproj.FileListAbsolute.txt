@@ -1,0 +1,15 @@
+F:\UTN\PROGRAMACION III\EJERCICIOS\Clase6_Componente\Clase6_Componente\bin\Debug\net6.0\Clase6_Componente.exe
+F:\UTN\PROGRAMACION III\EJERCICIOS\Clase6_Componente\Clase6_Componente\bin\Debug\net6.0\Clase6_Componente.deps.json
+F:\UTN\PROGRAMACION III\EJERCICIOS\Clase6_Componente\Clase6_Componente\bin\Debug\net6.0\Clase6_Componente.runtimeconfig.json
+F:\UTN\PROGRAMACION III\EJERCICIOS\Clase6_Componente\Clase6_Componente\bin\Debug\net6.0\Clase6_Componente.dll
+F:\UTN\PROGRAMACION III\EJERCICIOS\Clase6_Componente\Clase6_Componente\bin\Debug\net6.0\Clase6_Componente.pdb
+F:\UTN\PROGRAMACION III\EJERCICIOS\Clase6_Componente\Clase6_Componente\obj\Debug\net6.0\Clase6_Componente.csproj.AssemblyReference.cache
+F:\UTN\PROGRAMACION III\EJERCICIOS\Clase6_Componente\Clase6_Componente\obj\Debug\net6.0\Clase6_Componente.GeneratedMSBuildEditorConfig.editorconfig
+F:\UTN\PROGRAMACION III\EJERCICIOS\Clase6_Componente\Clase6_Componente\obj\Debug\net6.0\Clase6_Componente.AssemblyInfoInputs.cache
+F:\UTN\PROGRAMACION III\EJERCICIOS\Clase6_Componente\Clase6_Componente\obj\Debug\net6.0\Clase6_Componente.AssemblyInfo.cs
+F:\UTN\PROGRAMACION III\EJERCICIOS\Clase6_Componente\Clase6_Componente\obj\Debug\net6.0\Clase6_Componente.csproj.CoreCompileInputs.cache
+F:\UTN\PROGRAMACION III\EJERCICIOS\Clase6_Componente\Clase6_Componente\obj\Debug\net6.0\Clase6_Componente.dll
+F:\UTN\PROGRAMACION III\EJERCICIOS\Clase6_Componente\Clase6_Componente\obj\Debug\net6.0\refint\Clase6_Componente.dll
+F:\UTN\PROGRAMACION III\EJERCICIOS\Clase6_Componente\Clase6_Componente\obj\Debug\net6.0\Clase6_Componente.pdb
+F:\UTN\PROGRAMACION III\EJERCICIOS\Clase6_Componente\Clase6_Componente\obj\Debug\net6.0\Clase6_Componente.genruntimeconfig.cache
+F:\UTN\PROGRAMACION III\EJERCICIOS\Clase6_Componente\Clase6_Componente\obj\Debug\net6.0\ref\Clase6_Componente.dll

@@ -1,0 +1,15 @@
+F:\UTN\PROGRAMACION III\EJERCICIOS\Clase5_Ejercicio3_Productos\Clase5_Ejercicio3_Productos\bin\Debug\net6.0\Clase5_Ejercicio3_Productos.exe
+F:\UTN\PROGRAMACION III\EJERCICIOS\Clase5_Ejercicio3_Productos\Clase5_Ejercicio3_Productos\bin\Debug\net6.0\Clase5_Ejercicio3_Productos.deps.json
+F:\UTN\PROGRAMACION III\EJERCICIOS\Clase5_Ejercicio3_Productos\Clase5_Ejercicio3_Productos\bin\Debug\net6.0\Clase5_Ejercicio3_Productos.runtimeconfig.json
+F:\UTN\PROGRAMACION III\EJERCICIOS\Clase5_Ejercicio3_Productos\Clase5_Ejercicio3_Productos\bin\Debug\net6.0\Clase5_Ejercicio3_Productos.dll
+F:\UTN\PROGRAMACION III\EJERCICIOS\Clase5_Ejercicio3_Productos\Clase5_Ejercicio3_Productos\bin\Debug\net6.0\Clase5_Ejercicio3_Productos.pdb
+F:\UTN\PROGRAMACION III\EJERCICIOS\Clase5_Ejercicio3_Productos\Clase5_Ejercicio3_Productos\obj\Debug\net6.0\Clase5_Ejercicio3_Productos.csproj.AssemblyReference.cache
+F:\UTN\PROGRAMACION III\EJERCICIOS\Clase5_Ejercicio3_Productos\Clase5_Ejercicio3_Productos\obj\Debug\net6.0\Clase5_Ejercicio3_Productos.GeneratedMSBuildEditorConfig.editorconfig
+F:\UTN\PROGRAMACION III\EJERCICIOS\Clase5_Ejercicio3_Productos\Clase5_Ejercicio3_Productos\obj\Debug\net6.0\Clase5_Ejercicio3_Productos.AssemblyInfoInputs.cache
+F:\UTN\PROGRAMACION III\EJERCICIOS\Clase5_Ejercicio3_Productos\Clase5_Ejercicio3_Productos\obj\Debug\net6.0\Clase5_Ejercicio3_Productos.AssemblyInfo.cs
+F:\UTN\PROGRAMACION III\EJERCICIOS\Clase5_Ejercicio3_Productos\Clase5_Ejercicio3_Productos\obj\Debug\net6.0\Clase5_Ejercicio3_Productos.csproj.CoreCompileInputs.cache
+F:\UTN\PROGRAMACION III\EJERCICIOS\Clase5_Ejercicio3_Productos\Clase5_Ejercicio3_Productos\obj\Debug\net6.0\Clase5_Ejercicio3_Productos.dll
+F:\UTN\PROGRAMACION III\EJERCICIOS\Clase5_Ejercicio3_Productos\Clase5_Ejercicio3_Productos\obj\Debug\net6.0\refint\Clase5_Ejercicio3_Productos.dll
+F:\UTN\PROGRAMACION III\EJERCICIOS\Clase5_Ejercicio3_Productos\Clase5_Ejercicio3_Productos\obj\Debug\net6.0\Clase5_Ejercicio3_Productos.pdb
+F:\UTN\PROGRAMACION III\EJERCICIOS\Clase5_Ejercicio3_Productos\Clase5_Ejercicio3_Productos\obj\Debug\net6.0\Clase5_Ejercicio3_Productos.genruntimeconfig.cache
+F:\UTN\PROGRAMACION III\EJERCICIOS\Clase5_Ejercicio3_Productos\Clase5_Ejercicio3_Productos\obj\Debug\net6.0\ref\Clase5_Ejercicio3_Productos.dll

@@ -1,0 +1,15 @@
+F:\UTN\PROGRAMACION III\EJERCICIOS\Clase5_Ejercicio2\Clase5_Ejercicio2\bin\Debug\net6.0\Clase5_Ejercicio2.exe
+F:\UTN\PROGRAMACION III\EJERCICIOS\Clase5_Ejercicio2\Clase5_Ejercicio2\bin\Debug\net6.0\Clase5_Ejercicio2.deps.json
+F:\UTN\PROGRAMACION III\EJERCICIOS\Clase5_Ejercicio2\Clase5_Ejercicio2\bin\Debug\net6.0\Clase5_Ejercicio2.runtimeconfig.json
+F:\UTN\PROGRAMACION III\EJERCICIOS\Clase5_Ejercicio2\Clase5_Ejercicio2\bin\Debug\net6.0\Clase5_Ejercicio2.dll
+F:\UTN\PROGRAMACION III\EJERCICIOS\Clase5_Ejercicio2\Clase5_Ejercicio2\bin\Debug\net6.0\Clase5_Ejercicio2.pdb
+F:\UTN\PROGRAMACION III\EJERCICIOS\Clase5_Ejercicio2\Clase5_Ejercicio2\obj\Debug\net6.0\Clase5_Ejercicio2.csproj.AssemblyReference.cache
+F:\UTN\PROGRAMACION III\EJERCICIOS\Clase5_Ejercicio2\Clase5_Ejercicio2\obj\Debug\net6.0\Clase5_Ejercicio2.GeneratedMSBuildEditorConfig.editorconfig
+F:\UTN\PROGRAMACION III\EJERCICIOS\Clase5_Ejercicio2\Clase5_Ejercicio2\obj\Debug\net6.0\Clase5_Ejercicio2.AssemblyInfoInputs.cache
+F:\UTN\PROGRAMACION III\EJERCICIOS\Clase5_Ejercicio2\Clase5_Ejercicio2\obj\Debug\net6.0\Clase5_Ejercicio2.AssemblyInfo.cs
+F:\UTN\PROGRAMACION III\EJERCICIOS\Clase5_Ejercicio2\Clase5_Ejercicio2\obj\Debug\net6.0\Clase5_Ejercicio2.csproj.CoreCompileInputs.cache
+F:\UTN\PROGRAMACION III\EJERCICIOS\Clase5_Ejercicio2\Clase5_Ejercicio2\obj\Debug\net6.0\Clase5_Ejercicio2.dll
+F:\UTN\PROGRAMACION III\EJERCICIOS\Clase5_Ejercicio2\Clase5_Ejercicio2\obj\Debug\net6.0\refint\Clase5_Ejercicio2.dll
+F:\UTN\PROGRAMACION III\EJERCICIOS\Clase5_Ejercicio2\Clase5_Ejercicio2\obj\Debug\net6.0\Clase5_Ejercicio2.pdb
+F:\UTN\PROGRAMACION III\EJERCICIOS\Clase5_Ejercicio2\Clase5_Ejercicio2\obj\Debug\net6.0\Clase5_Ejercicio2.genruntimeconfig.cache
+F:\UTN\PROGRAMACION III\EJERCICIOS\Clase5_Ejercicio2\Clase5_Ejercicio2\obj\Debug\net6.0\ref\Clase5_Ejercicio2.dll

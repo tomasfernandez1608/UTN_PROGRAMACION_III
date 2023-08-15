@@ -1,0 +1,30 @@
+C:\Users\Charles\Documents\utn\Programacion III\clases ppt\clase 8 -  coleeciones parte 2\AppBancariaBien\App bancariaBien\bin\Debug\net6.0\App bancariaBien.exe
+C:\Users\Charles\Documents\utn\Programacion III\clases ppt\clase 8 -  coleeciones parte 2\AppBancariaBien\App bancariaBien\bin\Debug\net6.0\App bancariaBien.deps.json
+C:\Users\Charles\Documents\utn\Programacion III\clases ppt\clase 8 -  coleeciones parte 2\AppBancariaBien\App bancariaBien\bin\Debug\net6.0\App bancariaBien.runtimeconfig.json
+C:\Users\Charles\Documents\utn\Programacion III\clases ppt\clase 8 -  coleeciones parte 2\AppBancariaBien\App bancariaBien\bin\Debug\net6.0\App bancariaBien.dll
+C:\Users\Charles\Documents\utn\Programacion III\clases ppt\clase 8 -  coleeciones parte 2\AppBancariaBien\App bancariaBien\bin\Debug\net6.0\ref\App bancariaBien.dll
+C:\Users\Charles\Documents\utn\Programacion III\clases ppt\clase 8 -  coleeciones parte 2\AppBancariaBien\App bancariaBien\bin\Debug\net6.0\App bancariaBien.pdb
+C:\Users\Charles\Documents\utn\Programacion III\clases ppt\clase 8 -  coleeciones parte 2\AppBancariaBien\App bancariaBien\obj\Debug\net6.0\App bancariaBien.csproj.AssemblyReference.cache
+C:\Users\Charles\Documents\utn\Programacion III\clases ppt\clase 8 -  coleeciones parte 2\AppBancariaBien\App bancariaBien\obj\Debug\net6.0\App bancariaBien.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Charles\Documents\utn\Programacion III\clases ppt\clase 8 -  coleeciones parte 2\AppBancariaBien\App bancariaBien\obj\Debug\net6.0\App bancariaBien.AssemblyInfoInputs.cache
+C:\Users\Charles\Documents\utn\Programacion III\clases ppt\clase 8 -  coleeciones parte 2\AppBancariaBien\App bancariaBien\obj\Debug\net6.0\App bancariaBien.AssemblyInfo.cs
+C:\Users\Charles\Documents\utn\Programacion III\clases ppt\clase 8 -  coleeciones parte 2\AppBancariaBien\App bancariaBien\obj\Debug\net6.0\App bancariaBien.csproj.CoreCompileInputs.cache
+C:\Users\Charles\Documents\utn\Programacion III\clases ppt\clase 8 -  coleeciones parte 2\AppBancariaBien\App bancariaBien\obj\Debug\net6.0\App bancariaBien.dll
+C:\Users\Charles\Documents\utn\Programacion III\clases ppt\clase 8 -  coleeciones parte 2\AppBancariaBien\App bancariaBien\obj\Debug\net6.0\ref\App bancariaBien.dll
+C:\Users\Charles\Documents\utn\Programacion III\clases ppt\clase 8 -  coleeciones parte 2\AppBancariaBien\App bancariaBien\obj\Debug\net6.0\App bancariaBien.pdb
+C:\Users\Charles\Documents\utn\Programacion III\clases ppt\clase 8 -  coleeciones parte 2\AppBancariaBien\App bancariaBien\obj\Debug\net6.0\App bancariaBien.genruntimeconfig.cache
+C:\Users\Charles\Documents\utn\Programacion III\clases ppt\clase 9 - interfaces\AppBancariaBien\App bancariaBien\bin\Debug\net6.0\App bancariaBien.exe
+C:\Users\Charles\Documents\utn\Programacion III\clases ppt\clase 9 - interfaces\AppBancariaBien\App bancariaBien\bin\Debug\net6.0\App bancariaBien.deps.json
+C:\Users\Charles\Documents\utn\Programacion III\clases ppt\clase 9 - interfaces\AppBancariaBien\App bancariaBien\bin\Debug\net6.0\App bancariaBien.runtimeconfig.json
+C:\Users\Charles\Documents\utn\Programacion III\clases ppt\clase 9 - interfaces\AppBancariaBien\App bancariaBien\bin\Debug\net6.0\App bancariaBien.dll
+C:\Users\Charles\Documents\utn\Programacion III\clases ppt\clase 9 - interfaces\AppBancariaBien\App bancariaBien\bin\Debug\net6.0\ref\App bancariaBien.dll
+C:\Users\Charles\Documents\utn\Programacion III\clases ppt\clase 9 - interfaces\AppBancariaBien\App bancariaBien\bin\Debug\net6.0\App bancariaBien.pdb
+C:\Users\Charles\Documents\utn\Programacion III\clases ppt\clase 9 - interfaces\AppBancariaBien\App bancariaBien\obj\Debug\net6.0\App bancariaBien.csproj.AssemblyReference.cache
+C:\Users\Charles\Documents\utn\Programacion III\clases ppt\clase 9 - interfaces\AppBancariaBien\App bancariaBien\obj\Debug\net6.0\App bancariaBien.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Charles\Documents\utn\Programacion III\clases ppt\clase 9 - interfaces\AppBancariaBien\App bancariaBien\obj\Debug\net6.0\App bancariaBien.AssemblyInfoInputs.cache
+C:\Users\Charles\Documents\utn\Programacion III\clases ppt\clase 9 - interfaces\AppBancariaBien\App bancariaBien\obj\Debug\net6.0\App bancariaBien.AssemblyInfo.cs
+C:\Users\Charles\Documents\utn\Programacion III\clases ppt\clase 9 - interfaces\AppBancariaBien\App bancariaBien\obj\Debug\net6.0\App bancariaBien.csproj.CoreCompileInputs.cache
+C:\Users\Charles\Documents\utn\Programacion III\clases ppt\clase 9 - interfaces\AppBancariaBien\App bancariaBien\obj\Debug\net6.0\App bancariaBien.dll
+C:\Users\Charles\Documents\utn\Programacion III\clases ppt\clase 9 - interfaces\AppBancariaBien\App bancariaBien\obj\Debug\net6.0\ref\App bancariaBien.dll
+C:\Users\Charles\Documents\utn\Programacion III\clases ppt\clase 9 - interfaces\AppBancariaBien\App bancariaBien\obj\Debug\net6.0\App bancariaBien.pdb
+C:\Users\Charles\Documents\utn\Programacion III\clases ppt\clase 9 - interfaces\AppBancariaBien\App bancariaBien\obj\Debug\net6.0\App bancariaBien.genruntimeconfig.cache
